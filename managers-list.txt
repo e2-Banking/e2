@@ -1,8 +1,9 @@
+//List of managers
   Larissa
   Cynthia
   Eva
   Ella
   Jp
  Bro mac
-zacharias
-
+ zacharias
+zedicus
